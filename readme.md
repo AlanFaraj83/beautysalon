@@ -26,8 +26,7 @@
           </div>
         </div>
         
-        
-          <img src="Assets/fotos/45.jpg" alt="3 mulheres sorrindo " />
+ <img src="Assets/fotos/45.jpg" alt="3 mulheres sorrindo " />
          
          
          

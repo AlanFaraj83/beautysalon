@@ -22,7 +22,6 @@
               Um salão exclusivo em São Paulo, especializado em tratamentos
               naturais.
             </p>
-            <a class="button" href="#">Agendar um horário</a>
           </div>
         </div>
         

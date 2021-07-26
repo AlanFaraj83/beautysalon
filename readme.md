@@ -27,7 +27,10 @@
           </div>
         </div>
         
-         <div class="text">
+        <div class="image">
+            <img src="Assets/fotos/45.jpg" alt="3 mulheres sorrindo " />
+          </div>
+          <div class="text">
             <h2 class="title">Sobre nós</h2>
             <p>
               A beautysalon está no mercado a 10 anos onde a empresa além de tomar o maior cuidado aos seus clientes tem a maior alta de qualidade nos seus serviços e seus profissionais tem a maior nota pelo serviços prestados.
@@ -44,9 +47,8 @@
             <br />
           </div>
         </div>
-      </section>
         
-        
+         
   
   
       

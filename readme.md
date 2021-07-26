@@ -35,8 +35,6 @@
               
             </p>
             
-            <br />
-            
             <p>
               Por isso, o Brasil é hoje um dos principais players globais em relação ao mercado de salões de beleza, mesmo diante cenários econômicos de crise nos anos recentes, está em 4º lugar no ranking mundial. 
               Segundo o IBGE, o brasileiro gasta mais com beleza do que com comida. 

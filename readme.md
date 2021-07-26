@@ -14,5 +14,24 @@
 
 <h3>Apresentação do site</h3>
 
-<img src="Assets/fotos/44.jpg" alt="Mulher sorrindo penteando outra mulher"/>
+ <!-- HOME -->
+      <section class="section" id="home">
+        <div class="container grid">
+          <div class="image">
+            <img
+              src="Assets/fotos/44.jpg"
+              alt="Mulher sorrindo penteando outra mulher"
+            />
+          </div>
+          <div class="text">
+            <h2 class="title">Saúde natural para os seus cabelos</h2>
+            <p>
+              Um salão exclusivo em São Paulo, especializado em tratamentos
+              naturais.
+            </p>
+            <a class="button" href="#">Agendar um horário</a>
+          </div>
+        </div>
+      </section>
+
           

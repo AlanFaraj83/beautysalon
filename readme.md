@@ -18,10 +18,12 @@
  
  <div class="text">
    <h2 class="title">Saúde natural para os seus cabelos</h2>
+  
      <p> Um salão exclusivo em São Paulo, especializado em tratamentos naturais. </p>
-            <a class="button" href="#">Agendar um horário</a>
-          </div>
-        </div>
-      </section>
+            
+  </div>
+  
+  
+      
 
           

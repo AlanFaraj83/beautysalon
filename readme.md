@@ -4,7 +4,7 @@
 
 <p align="center">Projeto NLW onde fizemos um site de salon para beleza.</p>
 
-<h2 class="title">Conteúdo do projeto</h2>
+<h2>Conteúdo do projeto</h2>
 
 <ul>
   <li>HTML</li>
@@ -12,7 +12,7 @@
   <li>JAVASCRIPT</li>
 </ul>
 
-<h3>Apresentação do site</h3>
+<h2>Apresentação do site</h2>
 
  <img src="Assets/fotos/44.jpg" alt="Mulher sorrindo penteando outra mulher"/>
  

@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-<p align="center">Projeto NLW onde fizemos um site de salon para beleza.</p>
+<p align="center">Projeto NLW onde fizemos um site de salon para beleza. </p>
 
 <h2>Conteúdo do projeto</h2>
 

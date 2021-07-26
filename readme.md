@@ -1,4 +1,4 @@
-<h1 align='center'>Projeto Salon</h1>
+<h1 align='center'>Projeto Site Salon</h1>
 
 ## Descrição do Projeto
 

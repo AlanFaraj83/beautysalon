@@ -27,9 +27,9 @@
           </div>
         </div>
         
-        <div class="image">
-            <img src="Assets/fotos/45.jpg" alt="3 mulheres sorrindo " />
-          </div>
+        
+          <img src="Assets/fotos/45.jpg" alt="3 mulheres sorrindo " />
+         
           <div class="text">
             <h2 class="title">Sobre nós</h2>
             <p>

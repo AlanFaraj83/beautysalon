@@ -11,3 +11,8 @@
   <li>CSS</li>
   <li>JAVASCRIPT</li>
 </ul>
+
+<h3>Apresentação do site</h3>
+
+<img src="Assets/fotos/44.jpg" alt="Mulher sorrindo penteando outra mulher"/>
+          

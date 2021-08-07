@@ -39,6 +39,8 @@
           
 ### Como clonar o projeto:
 
+<p> git clone https://github.com/AlanFaraj83/beautysalon.git </p>
+
 
             
             

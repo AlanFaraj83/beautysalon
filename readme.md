@@ -36,8 +36,10 @@
               Segundo o IBGE, o brasileiro gasta mais com beleza do que com comida. 
               Então, este é, sem dúvidas, um dos melhores ramos para se investir atualmente.
           </p>
+</br>
+</br>
           
-### Como clonar o projeto:
+### <strong><i>Como clonar o projeto:</i></strong>
 
 <p> git clone https://github.com/AlanFaraj83/beautysalon.git </p>
 

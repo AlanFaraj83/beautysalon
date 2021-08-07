@@ -36,6 +36,10 @@
               Segundo o IBGE, o brasileiro gasta mais com beleza do que com comida. 
               Então, este é, sem dúvidas, um dos melhores ramos para se investir atualmente.
           </p>
+          
+## Como clonar o projeto:
+
+
             
             
          

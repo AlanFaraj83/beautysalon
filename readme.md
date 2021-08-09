@@ -1,5 +1,16 @@
 <h1 align='center'>Projeto Site Salon</h1>
 
+<p align="center">
+ <img alt="OriginSix" src="https://github.com/rocketseat-education/nlw-06-origin/raw/main/.github/preview.png" width="100%">
+</p>
+
+<p align="center">
+<img alt="OriginSix" src="https://camo.githubusercontent.com/3d8f464ee4aae55804b0a0a6909c0559a2da79a2236dd7a131a8adf2aa30aafa/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d505273266d6573736167653d77656c636f6d6526636f6c6f723d343941413236266c6162656c436f6c6f723d303030303030">
+
+<img alt="OriginSix" src=https://camo.githubusercontent.com/2b88dd35b2d940a8ed4e81671a4164ffe48301e722e7002240bb45edb7dcecdb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d343941413236266c6162656c436f6c6f723d303030303030>
+</p> 
+
+
 ## Descrição do Projeto
 
 <p align="center">Projeto NLW onde fizemos um site de salon para beleza. </p>
@@ -10,6 +21,19 @@
   * HTML
   * CSS
   * JAVASCRIPT
+  
+  
+## Bibliotecas
+
+- [Google Fonts](https://fonts.google.com/)
+- [SwipeJS](https://github.com/nolimits4web/Swiper)
+- [ScrollRevel](https://scrollrevealjs.org)
+
+## Utilitários
+
+- [randomuser.me](https://randomuser.me/photos)
+- [IconMoon](https://icomoon.io/app/#/select)
+
 
 
 <h2>Apresentação do site</h2>
@@ -37,11 +61,17 @@
               Então, este é, sem dúvidas, um dos melhores ramos para se investir atualmente.
           </p>
 </br>
-</br>
-          
+      
 ### <strong><i>Como clonar o projeto:</i></strong>
 
 <p> git clone https://github.com/AlanFaraj83/beautysalon.git </p>
+
+</br>
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
 
 
             
